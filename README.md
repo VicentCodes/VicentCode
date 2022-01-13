@@ -1,34 +1,48 @@
-<h3> :woman: &nbsp;About Me </h3>
+# Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"></h2>
 
-- :heart: My favorite language: Python, who doesn't?
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 💬 Ask me about: anything, I am happy to help
-- 💜 Interests: astronomy, aviation, art, video games, travel, video games
-- ⚡ Fun fact: In my last dream I was standing next to Sheldon Cooper as he fought with Stephen Hawking over a taco.🌮
+<a href="https://twitter.com/VicentCodes">
+  <img align="left" alt="Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/vicentcode">
+  <img align="left" alt="Linkdein profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:vicentcode@gmail.com">
+  <img align="left" alt="Patreon profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-<br/>
+<br />
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### About my work
 
-- :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<br/>
-
-<p>
+<a href="https://github.com/jesusrp98">
+  <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=VicentCode&show_icons=true&count_private=true&hide_border=true" />
 
 
 
+
+</a>
+
+- ❤️ My favorite language: Python, who doesn't?
+- 👨‍🎓 IT Engineer student
+- ⚾ Playing with [Android](https://developer.android.com/studio/intro) since 2018
+- 📐 UX/UI design as a hobby 
+- ✌️ Ask me about: anything, I am happy to help
+
+### Languages and Tools
+
+<p align="center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 </p>
 
-
-
-<br/> 
-<p>
-
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=vicentcode" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
+### Relevant work
+<p align="center">
+  <a href="https://github.com/VicentCode/Algeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Algeb" />
+  </a>
+  <a href="https://github.com/VicentCode/Converte">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Converte" />
+  </a>
 </p>
-<br/>
