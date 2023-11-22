@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"></h2>
 <a href="https://VicentCode.dev">
-  <img align="left" alt="Patreon profile" width="22px" src="https://vicentcode.dev/assets/images/logo2.png" />
+  <img align="left" alt="VicentCode.dev" width="32px" src="https://vicentcode.dev/images/logos.png" />
 </a>
 <a href="https://twitter.com/VicentCodes">
   <img align="left" alt="Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,10 +25,13 @@
 
 </a>
 
+
+- <a href="https://VicentCode.dev"><img align="left" alt="VicentCode.dev" width="20px" src="https://vicentcode.dev/images/logo.ico" />Check my portfolio</a> 
 - ❤️ My favorite language: Python, who doesn't?
 - 👨‍🎓 IT Engineer student
-- ⚾ Playing with [Android](https://developer.android.com/studio/intro) since 2018
-- 📐 UX/UI design as a hobby 
+- ⚾ Playing with Android since 2018
+- 📐 UX/UI design as a hobby
+- ✈️ Boeing lover
 - ✌️ Ask me about: anything, I am happy to help
 
 ### Languages and Tools
@@ -49,3 +52,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Converte" />
   </a>
 </p>
+
+### Check my portfolio
+<a href="https://VicentCode.dev">
+  <img align="left" alt="Patreon profile" width="62px" src="https://vicentcode.dev/images/logos.png" />
+</a>
