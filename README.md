@@ -52,8 +52,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Converte" />
   </a>
 </p>
-
-### Check my portfolio
-<a href="https://VicentCode.dev">
-  <img align="left" alt="Patreon profile" width="62px" src="https://vicentcode.dev/images/logos.png" />
-</a>
