@@ -18,7 +18,7 @@
 ### About my work
 
 <a href="https://github.com/VicentCode">
-  <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=VicentCode&show_icons=true&count_private=true&hide_border=true" />
+  <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=VicentCodes&show_icons=true&count_private=true&hide_border=true" />
 
 
 
@@ -45,10 +45,10 @@
 
 ### Relevant work
 <p align="center">
-  <a href="https://github.com/VicentCode/Algeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Algeb" />
+  <a href="https://github.com/VicentCodes/Algeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCodes&repo=Algeb" />
   </a>
-  <a href="https://github.com/VicentCode/Converte">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCode&repo=Converte" />
+  <a href="https://github.com/VicentCodes/CRUD-Node">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VicentCodes&repo=CRUD-Node" />
   </a>
 </p>
