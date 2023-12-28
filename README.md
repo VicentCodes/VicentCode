@@ -1,14 +1,14 @@
 # Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"></h2>
-<a href="https://VicentCode.dev">
-  <img align="left" alt="VicentCode.dev" width="32px" src="https://vicentcode.dev/images/logos.png" />
+<a href="https://VicentCodes.com">
+  <img align="left" alt="VicentCodes.com" width="32px" src="https://vicentcodes.com/images/logos.png" />
 </a>
 <a href="https://twitter.com/VicentCodes">
   <img align="left" alt="Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/vicentcode">
+<a href="www.linkedin.com/in/vicentcodes">
   <img align="left" alt="Linkdein profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:contact@vicentcode.dev">
+<a href="mailto:contact@VicentCodes.com">
   <img align="left" alt="Patreon profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -17,7 +17,7 @@
 
 ### About my work
 
-<a href="https://github.com/VicentCode">
+<a href="https://github.com/VicentCodes">
   <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=VicentCodes&show_icons=true&count_private=true&hide_border=true" />
 
 
@@ -26,7 +26,7 @@
 </a>
 
 
-- <a href="https://VicentCode.dev"><img align="left" alt="VicentCode.dev" width="20px" src="https://vicentcode.dev/images/logo.ico" />Check my portfolio</a> 
+- <a href="https://VicentCodes.com"><img align="left" alt="VicentCode.dev" width="20px" src="https://VicentCodes.com/images/logo.ico" />Check my portfolio</a> 
 - ❤️ My favorite language: Python, who doesn't?
 - 👨‍🎓 IT Engineer student
 - ⚾ Playing with Android since 2018
