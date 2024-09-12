@@ -28,7 +28,7 @@
 
 - <a href="https://VicentCodes.com"><img align="left" alt="VicentCode.dev" width="20px" src="https://VicentCodes.com/images/logo.ico" />Check my portfolio</a> 
 - ❤️ My favorite language: Python, who doesn't?
-- 👨‍🎓 IT Engineer student
+- 👨‍🎓 Computer Engineer
 - ⚾ Playing with Android since 2018
 - 📐 UX/UI design as a hobby
 - ✈️ Boeing lover
