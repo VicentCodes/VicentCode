@@ -5,7 +5,7 @@
 <a href="https://twitter.com/VicentCodes">
   <img align="left" alt="Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/vicentcodes">
+<a href="https://www.linkedin.com/in/vicentcodes/">
   <img align="left" alt="Linkdein profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:contact@VicentCodes.com">
