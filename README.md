@@ -29,6 +29,7 @@
 - 📐 UX/UI design as a hobby
 - ✈️ Boeing lover
 - ✌️ Ask me about: anything, I am happy to help
+- [![](https://visitcount.itsvg.in/api?id=VicentCodes&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
 
 ### Languages and Tools
 
